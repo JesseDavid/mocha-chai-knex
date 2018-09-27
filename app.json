@@ -19,8 +19,5 @@
     "heroku-postgresql:hobby-basic"
   ],
   "buildpacks": [
-    {
-      "url": "heroku/node"
-    }
   ]
 }
